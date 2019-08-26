@@ -73,3 +73,8 @@ python main.py --data_root <DataSet Root Dir name> --gpu_ids <GPU IDs> --sample_
     - ![](demo/150_280.jpg)
 
     - ![](demo/180_210.jpg)
+
+- 引用
+
+  - 作者paper[地址](https://www.albertpumarola.com/research/GANimation/)
+
